@@ -17,3 +17,4 @@ def self.all
     puts name.name
 end
 end
+end
