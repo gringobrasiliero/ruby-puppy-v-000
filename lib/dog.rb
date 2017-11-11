@@ -8,7 +8,7 @@ def initialize(name)
 
 end
 
-def clear_all
+def clear_all(name)
 @@all.clear
 end
 
